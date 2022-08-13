@@ -1,0 +1,16 @@
+C:\Users\ACER\source\repos\operator overloading\bin\Debug\net5.0\operator overloading.exe
+C:\Users\ACER\source\repos\operator overloading\bin\Debug\net5.0\operator overloading.deps.json
+C:\Users\ACER\source\repos\operator overloading\bin\Debug\net5.0\operator overloading.runtimeconfig.json
+C:\Users\ACER\source\repos\operator overloading\bin\Debug\net5.0\operator overloading.runtimeconfig.dev.json
+C:\Users\ACER\source\repos\operator overloading\bin\Debug\net5.0\operator overloading.dll
+C:\Users\ACER\source\repos\operator overloading\bin\Debug\net5.0\ref\operator overloading.dll
+C:\Users\ACER\source\repos\operator overloading\bin\Debug\net5.0\operator overloading.pdb
+C:\Users\ACER\source\repos\operator overloading\obj\Debug\net5.0\operator overloading.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\operator overloading\obj\Debug\net5.0\operator overloading.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\source\repos\operator overloading\obj\Debug\net5.0\operator overloading.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\operator overloading\obj\Debug\net5.0\operator overloading.AssemblyInfo.cs
+C:\Users\ACER\source\repos\operator overloading\obj\Debug\net5.0\operator overloading.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\operator overloading\obj\Debug\net5.0\operator overloading.dll
+C:\Users\ACER\source\repos\operator overloading\obj\Debug\net5.0\ref\operator overloading.dll
+C:\Users\ACER\source\repos\operator overloading\obj\Debug\net5.0\operator overloading.pdb
+C:\Users\ACER\source\repos\operator overloading\obj\Debug\net5.0\operator overloading.genruntimeconfig.cache

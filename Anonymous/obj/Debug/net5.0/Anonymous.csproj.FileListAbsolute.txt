@@ -1,0 +1,15 @@
+C:\Users\ACER\source\repos\Anonymous\bin\Debug\net5.0\Anonymous.exe
+C:\Users\ACER\source\repos\Anonymous\bin\Debug\net5.0\Anonymous.deps.json
+C:\Users\ACER\source\repos\Anonymous\bin\Debug\net5.0\Anonymous.runtimeconfig.json
+C:\Users\ACER\source\repos\Anonymous\bin\Debug\net5.0\Anonymous.runtimeconfig.dev.json
+C:\Users\ACER\source\repos\Anonymous\bin\Debug\net5.0\Anonymous.dll
+C:\Users\ACER\source\repos\Anonymous\bin\Debug\net5.0\ref\Anonymous.dll
+C:\Users\ACER\source\repos\Anonymous\bin\Debug\net5.0\Anonymous.pdb
+C:\Users\ACER\source\repos\Anonymous\obj\Debug\net5.0\Anonymous.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\source\repos\Anonymous\obj\Debug\net5.0\Anonymous.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\Anonymous\obj\Debug\net5.0\Anonymous.AssemblyInfo.cs
+C:\Users\ACER\source\repos\Anonymous\obj\Debug\net5.0\Anonymous.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\Anonymous\obj\Debug\net5.0\Anonymous.dll
+C:\Users\ACER\source\repos\Anonymous\obj\Debug\net5.0\ref\Anonymous.dll
+C:\Users\ACER\source\repos\Anonymous\obj\Debug\net5.0\Anonymous.pdb
+C:\Users\ACER\source\repos\Anonymous\obj\Debug\net5.0\Anonymous.genruntimeconfig.cache

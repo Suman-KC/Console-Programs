@@ -1,0 +1,13 @@
+C:\Users\ACER\source\repos\firstprogram\obj\Debug\netcoreapp2.0\firstprogram.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\firstprogram\obj\Debug\netcoreapp2.0\firstprogram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\source\repos\firstprogram\obj\Debug\netcoreapp2.0\firstprogram.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\firstprogram\obj\Debug\netcoreapp2.0\firstprogram.AssemblyInfo.cs
+C:\Users\ACER\source\repos\firstprogram\obj\Debug\netcoreapp2.0\firstprogram.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\firstprogram\bin\Debug\netcoreapp2.0\firstprogram.deps.json
+C:\Users\ACER\source\repos\firstprogram\bin\Debug\netcoreapp2.0\firstprogram.runtimeconfig.json
+C:\Users\ACER\source\repos\firstprogram\bin\Debug\netcoreapp2.0\firstprogram.runtimeconfig.dev.json
+C:\Users\ACER\source\repos\firstprogram\bin\Debug\netcoreapp2.0\firstprogram.dll
+C:\Users\ACER\source\repos\firstprogram\bin\Debug\netcoreapp2.0\firstprogram.pdb
+C:\Users\ACER\source\repos\firstprogram\obj\Debug\netcoreapp2.0\firstprogram.dll
+C:\Users\ACER\source\repos\firstprogram\obj\Debug\netcoreapp2.0\firstprogram.pdb
+C:\Users\ACER\source\repos\firstprogram\obj\Debug\netcoreapp2.0\firstprogram.genruntimeconfig.cache

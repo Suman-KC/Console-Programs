@@ -1,0 +1,15 @@
+C:\Users\ACER\source\repos\Event\bin\Debug\net5.0\Event.exe
+C:\Users\ACER\source\repos\Event\bin\Debug\net5.0\Event.deps.json
+C:\Users\ACER\source\repos\Event\bin\Debug\net5.0\Event.runtimeconfig.json
+C:\Users\ACER\source\repos\Event\bin\Debug\net5.0\Event.runtimeconfig.dev.json
+C:\Users\ACER\source\repos\Event\bin\Debug\net5.0\Event.dll
+C:\Users\ACER\source\repos\Event\bin\Debug\net5.0\ref\Event.dll
+C:\Users\ACER\source\repos\Event\bin\Debug\net5.0\Event.pdb
+C:\Users\ACER\source\repos\Event\obj\Debug\net5.0\Event.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\source\repos\Event\obj\Debug\net5.0\Event.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\Event\obj\Debug\net5.0\Event.AssemblyInfo.cs
+C:\Users\ACER\source\repos\Event\obj\Debug\net5.0\Event.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\Event\obj\Debug\net5.0\Event.dll
+C:\Users\ACER\source\repos\Event\obj\Debug\net5.0\ref\Event.dll
+C:\Users\ACER\source\repos\Event\obj\Debug\net5.0\Event.pdb
+C:\Users\ACER\source\repos\Event\obj\Debug\net5.0\Event.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\ACER\source\repos\Constructor\obj\Debug\net5.0\Constructor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\source\repos\Constructor\obj\Debug\net5.0\Constructor.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\Constructor\obj\Debug\net5.0\Constructor.AssemblyInfo.cs
+C:\Users\ACER\source\repos\Constructor\obj\Debug\net5.0\Constructor.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\Constructor\bin\Debug\net5.0\Constructor.exe
+C:\Users\ACER\source\repos\Constructor\bin\Debug\net5.0\Constructor.deps.json
+C:\Users\ACER\source\repos\Constructor\bin\Debug\net5.0\Constructor.runtimeconfig.json
+C:\Users\ACER\source\repos\Constructor\bin\Debug\net5.0\Constructor.runtimeconfig.dev.json
+C:\Users\ACER\source\repos\Constructor\bin\Debug\net5.0\Constructor.dll
+C:\Users\ACER\source\repos\Constructor\bin\Debug\net5.0\ref\Constructor.dll
+C:\Users\ACER\source\repos\Constructor\bin\Debug\net5.0\Constructor.pdb
+C:\Users\ACER\source\repos\Constructor\obj\Debug\net5.0\Constructor.dll
+C:\Users\ACER\source\repos\Constructor\obj\Debug\net5.0\ref\Constructor.dll
+C:\Users\ACER\source\repos\Constructor\obj\Debug\net5.0\Constructor.pdb
+C:\Users\ACER\source\repos\Constructor\obj\Debug\net5.0\Constructor.genruntimeconfig.cache

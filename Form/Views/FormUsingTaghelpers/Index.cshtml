@@ -1,0 +1,35 @@
+﻿@model FormUsingTaghelpers.Models.student
+
+
+<h1>
+    Student form
+</h1>
+<div class="container" >
+    <div class="row">
+        <div class="col-sm-4 mx-auto">
+            <form asp-action="Index" asp-controller="Form" method="post">
+                <input asp-for="name" placeholder="enter your name" class="form-control" />
+                <br />
+                <input asp-for="roll" placeholder="enter your roll number" class="form-control" />
+                <br />
+                <input asp-for="age" placeholder="enter your age" class="form-control" />
+                <br />
+                <input asp-for="adress" placeholder="enter your adress" class="form-control" />
+                <br />
+                <select class="form-control" id="Gender" name="Gender">
+                    <option value="">Select Gender</option>
+                    <option value="0">male</option>
+                    <option value="1">female</option>
+                </select>
+                
+                <label> Married:</label>
+                <label> Yes</label>
+                <input type="radio" asp-for="married" value="yes" />
+                <label> no</label>
+                <input type="radio" asp-for="married" value="no" />
+                <input type="submit" class="btn btn-primary btn-block" />
+
+            </form>
+        </div>
+    </div>
+</div>

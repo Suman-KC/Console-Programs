@@ -1,0 +1,36 @@
+﻿@model Student
+@{
+    ViewData["Title"] = "Register";
+}
+
+<h1>Register</h1>
+<div class="container">
+    <div class="row">
+    <div class=" col-sm-4 mx-auto">
+        <form asp-action="index" asp-controller="Home" method="post">
+            <label asp-for="name">Name:</label>
+            <input asp-for="name" placeholder="enter your name here" class="form-control" />
+            <label asp-for="roll">Roll:</label>
+            <input asp-for="roll" placeholder="enter your roll here" class="form-control" />
+            <label asp-for="age">Age:</label>
+            <input asp-for="age" placeholder="enter your name here" class="form-control" />
+            <br />
+            <select asp-for="Gender" class="form-control" asp-items="Html.GetEnumSelectList<Gender>()">
+                <option value="">
+                    Select gender
+                </option>
+            </select>
+            <br />
+            <label>Married:</label>
+            <label>Yes</label>
+            <input type="radio" asp-for="Married" value="yes" />
+            <label>No</label>
+            <input type="radio" asp-for="Married" value="no" />
+            <br />
+            <input type="submit" value="submit" class="btn btn-primary btn-block" />
+        </form>
+        </div>
+    </div>
+</div>
+
+
